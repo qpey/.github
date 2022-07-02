@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="140" src="./images/logo.png" />  
+  <img width="140" src="./logo.png" />  
   <h2 align="center">Qpey</h2>
   <p align="center">🏆 A secure QR code payment system</p>
 </p>
